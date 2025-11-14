@@ -1,4 +1,4 @@
-📘 README – Proyecto 3: Katas Python
+README – Proyecto 3: Katas Python
 
 Este proyecto recoge la resolución de 40 katas en Python, cada una diseñada para practicar:
 
